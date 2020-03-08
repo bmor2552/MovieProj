@@ -44,11 +44,15 @@ MostPopularMovies_89_19.csv
 https://github.com/bmor2552/MovieProj/blob/master/NoteBooks/Data_Grabbing2.ipynb
 
 
+
+
 **The Dataframe that has raw movie data based off the movie id (needed this for revenue & budget info) and the notebook that contains the proccess**
 
 Movies_by_id.csv
 
 https://github.com/bmor2552/MovieProj/blob/master/NoteBooks/Data_Grabbing2.ipynb
+
+
 
 **The Dataframe that has the two dataframes merged together and the notebook that cleans it**
 
@@ -57,15 +61,20 @@ Merged_DataFrame2.ipynb
 https://github.com/bmor2552/MovieProj/blob/master/NoteBooks/Merged_DataFrame2.ipynb
 
 
+
 **The Dataframe that was retrieved from Kaggle and the notbook that cleans it (**The link to the kaggle data is in the notebook**)**
 
 Official_Movie_DataFrame
 
 https://github.com/bmor2552/MovieProj/blob/master/NoteBooks/Official_Movie_Notebook.ipynb
 
+
+
 **The notebook that performs the analysis of the movie data**
 
 https://github.com/bmor2552/MovieProj/blob/master/NoteBooks/Statistical_Analysis.ipynb
+
+
 
 **Last But Not Least My Presentation To Tie It All Together With A Pretty Bow**
 
