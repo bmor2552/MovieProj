@@ -78,5 +78,5 @@ https://github.com/bmor2552/MovieProj/blob/master/NoteBooks/Statistical_Analysis
 
 **Last But Not Least My Presentation To Tie It All Together With A Pretty Bow**
 
-https://github.com/bmor2552/MovieProj/blob/master/Effective%20Marketing%20(3).pdf
+https://www.canva.com/design/DAD1ygONAxc/rSd3qcSlql-6FJzzc1VdUQ/view?utm_content=DAD1ygONAxc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
