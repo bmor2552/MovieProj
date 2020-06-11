@@ -1,7 +1,7 @@
 # Creating The Movies We Will Cherish Forever 
 ![Filming Camera](action.jpg)
 
-The Project:
+**The Project:**
 Microsoft has hired me to conduct a data analysis and present my findings to them. From the data I will be able to gather the information needed to start a production company. I will also be able to give recommendations for what type of movies the company should focus on producing.
 
 # The Goal
