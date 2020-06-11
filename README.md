@@ -1,4 +1,5 @@
-# The Movies: Project 1 
+# Creating The Movies We Will Cherish Forever 
+![Filming Camera](action.jpg)
 
 The Project:
 Microsoft has hired me to conduct a data analysis and present my findings to them. From the data I will be able to gather the information needed to start a production company. I will also be able to give recommendations for what type of movies the company should focus on producing.
@@ -30,6 +31,9 @@ With the new dataframe I was able to retrieve the information I was after. My da
 # My Findings
 From the data analysis I found that the top genre of the most popular movies was Adventure, pulling about 60 billion USD. The top three genres were Adventure, Action, and Fantesy in that order.
 The top three production companies were Walt Disney, Warner Brothers, & Walt Disney Pictures.
+
+![GitHub Logo](genres.png)
+
  
 # How To Navigate MovieProj Repository
 Below you will find a list of dataframes and their corresponding notebooks:
