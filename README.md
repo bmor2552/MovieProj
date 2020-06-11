@@ -37,7 +37,7 @@ Below you will find a list of dataframes and their corresponding notebooks:
 
 # CSV Files & Corresponding Notebooks
 
-**The Dataframe with the raw data based off the 1989-2019 time frame and the notebook that contains the API proccess**
+# The Dataframe with the raw data based off the 1989-2019 time frame and the notebook that contains the API proccess
 
 MostPopularMovies_89_19.csv
 
@@ -46,7 +46,7 @@ https://github.com/bmor2552/MovieProj/blob/master/NoteBooks/Data_Grabbing2.ipynb
 
 
 
-**The Dataframe that has raw movie data based off the movie id (needed this for revenue & budget info) and the notebook that contains the proccess**
+# The Dataframe that has raw movie data based off the movie id (needed this for revenue & budget info) and the notebook that contains the proccess
 
 Movies_by_id.csv
 
@@ -54,7 +54,7 @@ https://github.com/bmor2552/MovieProj/blob/master/NoteBooks/Data_Grabbing2.ipynb
 
 
 
-**The Dataframe that has the two dataframes merged together and the notebook that cleans it**
+# The Dataframe that has the two dataframes merged together and the notebook that cleans it
 
 Merged_DataFrame2.ipynb
 
@@ -62,7 +62,7 @@ https://github.com/bmor2552/MovieProj/blob/master/NoteBooks/Merged_DataFrame2.ip
 
 
 
-**The Dataframe that was retrieved from Kaggle and the notbook that cleans it (**The link to the kaggle data is in the notebook**)**
+# The Dataframe that was retrieved from Kaggle and the notbook that cleans it (**The link to the kaggle data is in the notebook**)
 
 Official_Movie_DataFrame
 
@@ -70,13 +70,13 @@ https://github.com/bmor2552/MovieProj/blob/master/NoteBooks/Official_Movie_Noteb
 
 
 
-**The notebook that performs the analysis of the movie data**
+# The notebook that performs the analysis of the movie data
 
 https://github.com/bmor2552/MovieProj/blob/master/NoteBooks/Statistical_Analysis.ipynb
 
 
 
-**Last But Not Least My Presentation To Tie It All Together With A Pretty Bow**
+# Presentation
 
 https://www.canva.com/design/DAD1ygONAxc/rSd3qcSlql-6FJzzc1VdUQ/view?utm_content=DAD1ygONAxc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
